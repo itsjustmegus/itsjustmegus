@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Computer Science Major and baseball player at [Western Nebraska Community College](https://www.wncc.edu/)https://www.wncc.edu/
+## I'm a Computer Science Major and baseball player at [Western Nebraska Community College](https://www.wncc.edu/]https://www.wncc.edu/
 
 
 ### 🔭 I’m currently working on Python, Java, and C++ projects as well as working on a project in Unity.
