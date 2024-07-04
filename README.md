@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Computer Science Major and baseball player at [Western Nebraska Community College](https://www.wncc.edu/)
+## I'm a Computer Science Major and baseball player at [The University of Northern Colorado](https://www.unco.edu/)
+
+### I have two associate degrees from Western Nebraska Community College.
+- Associate of Science in Computer Science
+- Associate of Arts in Information Technology
 
 
 ### 🔭 I have experience with Python, Java, C++, and Unity.
