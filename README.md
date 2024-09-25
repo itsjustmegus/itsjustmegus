@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### 🔭 I have experience with Python, Java, C++, and Unity.
 ### 🌱 I'm currently learning Unreal Editor for Fortnite as well as React and Node for a web store project.
-### ⚡ Fun fact: I am what's called a Speedcuber, which means that I solve Rubik's Cubes and other similar puzzles really fast.
+### ⚡ Fun fact: I am a Speedcuber, which means that I solve Rubik's Cubes and other similar puzzles really fast.
